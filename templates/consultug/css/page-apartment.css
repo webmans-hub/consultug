@@ -1,0 +1,8 @@
+.pl-doc {
+    list-style-image: url(../images/check.png);
+}
+
+.pl-doc>li {
+    margin-left: 20px;
+    padding-left: 0px; 
+}

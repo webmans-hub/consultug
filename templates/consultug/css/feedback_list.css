@@ -1,0 +1,25 @@
+
+/*
+    #_FEEDBACK_LIST
+*/
+
+#feedback-handling{
+  font-family: ProximaNova-Light;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.feedback-handlings-list{
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+
+.feedback-handlings-list .item td{
+    padding: 10px; 
+    font-family: ProximaNova-Light;
+    font-size: 14px;
+    line-height: 1.5; 
+    border: 1px solid  #455568;
+}
+

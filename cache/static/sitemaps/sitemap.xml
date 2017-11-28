@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>http://consultug.beauty-hand.ru/sitemap_content_pages.xml</loc>
+      <lastmod>2017-11-10</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://consultug.beauty-hand.ru/sitemap_content_articles.xml</loc>
+      <lastmod>2017-11-10</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://consultug.beauty-hand.ru/sitemap_content_estimats.xml</loc>
+      <lastmod>2017-11-10</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://consultug.beauty-hand.ru/sitemap_users_profiles.xml</loc>
+      <lastmod>2017-11-10</lastmod>
+   </sitemap>
+</sitemapindex>

@@ -1,0 +1,58 @@
+.button-order_report {
+    padding: 15px 0;
+    border: 1px solid #428ee6;
+    width: 230px;
+}
+
+.button-order_report:hover {
+    background-color: #ffffff;
+    border: 1px solid #fd3152;
+    cursor: pointer;
+}
+
+.button-order_report:hover>p{
+    color: #fd3152;
+}
+
+.button-get_consult{
+    border: 1px solid #428ee6;
+    padding: 15px 0;
+    width: 230px;
+    margin-top: 10px;
+}
+
+.button-get_consult:hover{
+    background-color: #428ee6;
+    cursor: pointer;
+}
+ 
+.button-get_consult:hover>p {
+    color: #ffffff;  
+}
+
+.button-wrap {
+    height: 56px;
+    top: 0px;
+    left: 0px; 
+    overflow: hidden;
+} 
+
+.button-order_report .button-wrap {
+    margin-top: -1px;
+    padding-right: 1px;       
+}
+
+.button-ribbon {
+    width: 200px;
+    height: 20px;
+    top: 5px;
+    right: -79px;
+    line-height: 2;
+    transform: rotate(35deg); 
+}
+
+
+.button-get_consult .button-wrap:hover .button-ribbon {
+    background-color: #ffffff;
+    color: #428ee6;
+}

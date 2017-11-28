@@ -1,0 +1,64 @@
+.arbitration-one{
+    max-width: 740px;
+}
+
+.banner-main{
+   top: 80px;
+   width: 99%;
+}
+
+.banner-main .g-w_1170{
+    height: 0;
+}
+
+.banner-content{ 
+    width: 302px;
+    box-shadow: 1.5px 2.598px 14.85px 0.15px rgba(36, 55, 78, 0.15);    
+}
+
+/*
+	#_SCREEN_DIMENSIONS
+*/
+
+@media screen and (max-width: 1024px) {
+   
+}
+
+@media screen and (max-width: 960px) {
+    .m-banner-main{
+        position: relative;
+        width: 100%;
+        height: 170px;
+        top: 0;
+    }  
+
+    .m-banner-content{
+        width: 100%;
+        padding-left: 8.33%;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+}
+
+@media screen and (max-width: 480px) {
+ 
+
+}
+
+@media screen and (max-width: 435px){
+     
+}
+
+@media screen and (max-width: 384px){
+        
+}
+
+@media screen and (max-width: 340px){
+    .baner-batton{
+        padding: 10px 0;
+        width: 160px;
+    }   
+    
+}

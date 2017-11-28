@@ -1,0 +1,38 @@
+.answer-one{
+    max-width: 600px;
+}
+
+/*
+	#_SCREEN_DIMENSIONS
+*/
+
+@media screen and (max-width: 1024px) {
+   
+}
+
+@media screen and (max-width: 960px) {
+    
+}
+
+@media screen and (max-width: 780px) {
+
+}
+
+@media screen and (max-width: 480px) {
+ 
+
+}
+
+@media screen and (max-width: 435px){
+ 
+    
+}
+
+@media screen and (max-width: 384px){
+        
+}
+
+@media screen and (max-width: 340px){
+    
+    
+}
