@@ -9,13 +9,6 @@ RewriteEngine on
 #RewriteCond %{HTTPS} !=on
 #RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
-# Rewrite www
-RewriteCond %{HTTP_HOST} ^consultug.beauty-hand.ru$
-RewriteRule (.*) http://consultug.ru/$1 [R=301,L]
-# Rewrite www
-RewriteCond %{HTTP_HOST} ^www.consultug.beauty-hand.ru$
-RewriteRule (.*) http://consultug.ru/$1 [R=301,L]
-
 # Hide text files
 RewriteRule ^.htaccess$ - [F]
 RewriteRule ^credits.txt$ - [F]
